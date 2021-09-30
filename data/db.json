@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Blog",
+      "body": "Test test Test test Test test Test test",
+      "author": "mario",
+      "id": 2
+    },
+    {
+      "title": "Today blog",
+      "body": "Somebody that i used to khow",
+      "author": "yoshi",
+      "id": 3
+    }
+  ]
+}
